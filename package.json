@@ -1,0 +1,17 @@
+{
+  "name": "isnotfct",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rollup -c"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@rollup/plugin-strip": "^2.1.0",
+    "@rollup/plugin-typescript": "^8.2.5",
+    "rollup": "^2.56.2"
+  }
+}
